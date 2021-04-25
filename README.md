@@ -1,4 +1,4 @@
-# README
+# Private Name
 
 This is the my solution for the Associations Project in TOP's Ruby on Rails Course.
 
